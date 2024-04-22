@@ -1,2 +1,2 @@
-# db-connector
-This product allows you to make queries into a database that was previously configured by a driver in the AEM instance.
+# Issue repository
+This is the main repository for report issues related with the Codebay AEM "DB Connector"
